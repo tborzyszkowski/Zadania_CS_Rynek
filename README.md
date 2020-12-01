@@ -23,18 +23,18 @@ Napisz program, który będzie modelował następującą sytuację rynkową.
     Obserwują oferty produktów na rynku. Ich zachowanie opisują następujące reguły:
     - chcą kupić określone produkty i śledzą ich ceny ale nie muszą ich kupić natychmiast
     - mają wiedzę o skali inflacji
-    - ich skłonność do zakupu produktu spada wraz z rosnącą marżą sprzedawcy.
+    - ich skłonność do zakupu produktu spada wraz z rosnącą ceny produktu, niezależnie czy wzrost cen był spowodowany inflacją czy marżą.
     
 - **Bank Centralny** obserwuje wzrost cen produktów oraz obroty na rynku.
-    Ustala bierżący poziom inflacji. Bank stara się utrzymać stałe wpływy podatkowe liczone jako 
+    Ustala bieżący poziom inflacji. Bank stara się utrzymać stałe wpływy podatkowe liczone jako 
     iloczyn inflacji i obrotów przy danej inflacji.
     
     
 Wykorzystaj:
 - **Wzorzec odwiedzający** do aktualizacji danych o produktach u sprzedawców oraz parametrów kupujących.
-    Referencujną implementację wzorca odwiedzający znajdzesz w katalogu: `\Examples\ShoppingCart`.
+    Referencujną implementację wzorca odwiedzający znajdziesz w katalogu: `\Examples\ShoppingCart`.
 - **Wzorzec obserwator** do pasywnego obserwowania następujących zmian:
-    - Sprzedawcy i Kupujący obserwują Bank Centralny by dowiedzeić się jaki jest poziom inflacji
+    - Sprzedawcy i Kupujący obserwują Bank Centralny by dowiedzieć się jaki jest poziom inflacji
     - Kupujący obserwują oferty Sprzedawców i mogą na nie reagować ale nie muszą.
    
     Referencyjną implementację wzorca obserwator znajdziesz w katalogu: `\Examples\IObserverNet40`.
