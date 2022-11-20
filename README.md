@@ -2,7 +2,7 @@
 
 | Termin oddania | Punkty     |
 |----------------|:-----------|
-| 12.12.2021  23:00   |    10      |
+| 18.12.2022  23:00   |    10      |
 
 --- 
 Przekroczenie terminu o **n** zajęć wiąże się z karą:
@@ -23,10 +23,10 @@ Napisz program, który będzie modelował następującą sytuację rynkową.
     Obserwują oferty produktów na rynku. Ich zachowanie opisują następujące reguły:
     - chcą kupić określone produkty i śledzą ich ceny ale nie muszą ich kupić natychmiast
     - mają wiedzę o skali inflacji
-    - ich skłonność do zakupu produktu spada wraz z rosnącą ceny produktu, niezależnie czy wzrost cen był spowodowany inflacją czy marżą.
+    - ich skłonność do zakupu produktu spada wraz z rosnącą ceną produktu, niezależnie czy wzrost cen był spowodowany inflacją czy marżą.
     
 - **Bank Centralny** obserwuje wzrost cen produktów oraz obroty na rynku.
-    Ustala bieżący poziom inflacji. Bank stara się utrzymać stałe wpływy podatkowe liczone jako 
+    Ustala bieżący poziom inflacji. Bank stara się utrzymać stałe wpływy (kwotowo) podatkowe liczone jako 
     iloczyn inflacji i obrotów przy danej inflacji.
     
     
