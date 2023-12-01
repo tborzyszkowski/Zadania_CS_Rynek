@@ -2,7 +2,7 @@
 
 | Termin oddania | Punkty     |
 |----------------|:-----------|
-| 27.05.2023  23:00   |    15      |
+| 22.12.2023  23:00   |    15      |
 
 --- 
 Przekroczenie terminu o **n** zajęć wiąże się z karą:
@@ -19,7 +19,7 @@ Napisz program, który będzie modelował następującą sytuację rynkową.
 
     Celem sprzedawcy jest osiągnięcie jak największego zysku.
 
-- **Kupujący** posiadają potrzeby, zasady i pieniądze. 
+- **Kupujący** posiadają potrzeby, zasady i pieniądze (zasoby pieniędzy zmieniają się w czasie). 
     Obserwują oferty produktów na rynku. Ich zachowanie opisują następujące reguły:
     - chcą kupić określone produkty, podzielone na dwie kategorie: pierwszej potrzeby i luksusowe, i śledzą ich ceny ale nie muszą ich kupić natychmiast (dotyczy luksusuwych)
     - mają wiedzę o skali inflacji
