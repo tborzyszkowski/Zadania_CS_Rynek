@@ -2,7 +2,7 @@
 
 | Termin oddania | Punkty     |
 |----------------|:-----------|
-| 22.12.2023  23:00   |    15      |
+| 14.12.2024  23:00   |    15      |
 
 --- 
 Przekroczenie terminu o **n** zajęć wiąże się z karą:
@@ -40,7 +40,7 @@ Wykorzystaj:
     Referencyjną implementację wzorca obserwator znajdziesz w katalogu: `\Examples\IObserverNet40`.
 
 ### Uwaga 1
-Projekt powinien również zawierać odpowiednie testy jednostkowe do implementowanej funkcjonalności.
+Projekt powinien zawierać odpowiednie testy jednostkowe do implementowanej funkcjonalności.
 
 ### Uwaga 2
 Dla uproszczenia implementacji można rozważyć implementację opartą na turach.
